@@ -42,15 +42,18 @@
     font-weight: 400;
     font-size: 15px;
     width: 350px;
+    margin-bottom: 20px;
 }
 
 @media  (max-width: 375px) {
     .qr {
-        width: 80%;
+        width: 80%;    
+        place-items: center;
         height: auto;
     }
 
     .qr-img {
+        place-items: center;
         width: 90%;
         margin-top: 15px;
         border-radius: 15px;
