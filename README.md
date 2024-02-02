@@ -1,1 +1,4 @@
-- 👋 Hi, I’m @HusniddinAyubjonov
+- 👋 Hi, I’m Husniddin Ayubjonov
+- I’m 14 y.o
+- I live in Tajikistan, Istaravshan
+- In the future I want to be a front-end developer
