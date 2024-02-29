@@ -2,3 +2,4 @@
 - I’m 14 y.o
 - I live in Tajikistan, Istaravshan
 - In the future I want to be a front-end developer
+- I using Html Css JavaScript React Js 
