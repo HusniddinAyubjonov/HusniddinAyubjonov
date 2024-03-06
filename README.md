@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Husniddin Ayubjonov
-- I’m 14 y.o
-- I live in Tajikistan, Istaravshan
-- In the future I want to be a front-end developer
-- I using Html Css JavaScript React Js 
+"Hey, I'm Husniddin, a 14-year-old web developer with a knack for HTML5, CSS, JavaScript, React.js, and Bootstrap. Passionate about crafting sleek and responsive web experiences, I'm always up for new challenges and eager to contribute to exciting projects. Let's build something amazing together!"
