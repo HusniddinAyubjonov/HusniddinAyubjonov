@@ -27,7 +27,6 @@ I build modern web and mobile applications with a focus on clean UI, performance
 
 * Git & GitHub
 * Figma
-* VS Code
 
 ### 🚀 Projects
 
