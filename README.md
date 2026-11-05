@@ -19,6 +19,7 @@ I build modern web and mobile applications with a focus on clean UI, performance
 
 **Backend & Services**
 
+* Golang
 * Supabase
 * Firebase
 * REST APIs
@@ -38,6 +39,12 @@ I build modern web and mobile applications with a focus on clean UI, performance
 
 * **Sifat1** — web project
   [sifat1.tj](https://sifat1.tj)
+
+  * **eTuhfa** — digital loyalty cards and gift certificates for businesses  
+  [etuhfa.tj](https://etuhfa.tj)
+
+  * **Belfection** — upcoming online cosmetics store  
+  [belfection.tj](https://belfection.tj)
 
 ### 📫 Contact
 
